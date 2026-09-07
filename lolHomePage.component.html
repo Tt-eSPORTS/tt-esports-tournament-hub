@@ -1,0 +1,9 @@
+<div class="listaCampeones">
+    <mat-card class="cardChampion" *ngFor='let campeon of campeones' (click)="detallesCampeon(campeon.name)">
+      <mat-card-header>
+        <mat-card-title>{{campeon.name}}</mat-card-title>
+        <mat-card-subtitle>{{campeon.title}}</mat-card-subtitle>
+      </mat-card-header>
+        <img class="imagenCampeon" mat-card-xs-image  src="https://ddragon.leagueoflegends.com/cdn/{{version}}/img/champion/{{campeon.id}}.png" />
+    </mat-card>
+</div>

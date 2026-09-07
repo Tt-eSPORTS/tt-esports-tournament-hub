@@ -1,0 +1,15 @@
+.cardChampion{
+  margin: 20px;
+  display: inline-block;
+  text-align: left;
+}
+
+.cardChampion .championRol{
+  margin-top: 20px;
+}
+.imagenCampeon{
+  margin:0 auto;display:block;
+}
+.listaCampeones{
+  margin:0 auto;display:block;
+}
