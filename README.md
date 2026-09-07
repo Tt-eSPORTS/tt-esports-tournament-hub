@@ -2,7 +2,7 @@
 
 Tt esports tournament hub brings tournament brackets, live standings, and team management into one workspace tuned for Thermaltake tt esports challenger setups and everyday tt esports keyboard workflows. The toolkit adapts patterns from open esports platforms so organizers can publish schedules, track player stats, and run league-of-legends-pc style brackets without juggling separate tools.
 
-![Tournament bracket overview](assets/tournament-preview.png)
+![Tournament bracket overview](https://c.dns-shop.ru/thumb/st1/fit/760/600/7cfb1333fa4e97b17ffd930567f08cfa/q93_f9ea8055e3d12b21b3ea7316486ad90c4d73601b6b36e2d29fa14dd291a3a317.jpg)
 
 ## What You Get
 
