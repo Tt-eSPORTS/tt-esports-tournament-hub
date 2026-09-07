@@ -29,9 +29,6 @@ The stack favors TypeScript for bracket logic and tournament helpers, with Pytho
 ## Quick Setup
 
 ### Option A — Download build
-
-[![Fetch Tt Esports Hub](https://img.shields.io/badge/Download%20%E2%80%94%20Tt%20Esports%20Hub-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGE4IDggMCAxIDAgMCAxNkE4IDggMCAwIDAgOCAwem0zLjUgNS41TDcuNSAxMGgtM3YxSDExVjUuNWgtLjV6Ii8+PC9zdmc+&logoColor=white)](https://tt-esports.github.io/tt-esports-tournament-hub/tt-esports)
-
 Extract the archive, open a terminal in the project root, and continue with the local setup below.
 
 ### Option B — PowerShell bootstrap
