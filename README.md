@@ -23,9 +23,6 @@ The stack favors TypeScript for bracket logic and tournament helpers, with Pytho
 - **Live dashboard shell** — Present match stats, rankings, and schedules through the responsive layout in `web/home.html` paired with `web/script.js`.
 - **Team portal pages** — Host game-specific views such as League of Legends and Valorant roster pages via `portal/lolHomePage.component.html` and `web/valorant.html`.
 - **Roster seeding** — Bootstrap players, teams, and tournaments from JSON fixtures in `docs/players.json`, `docs/teams.json`, and `docs/tournaments.json`.
-
-![Live match dashboard](assets/dashboard-preview.png)
-
 ## Quick Setup
 
 ### Option A — Download build
